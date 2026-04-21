@@ -34,7 +34,8 @@ I specialize in "Under-the-Hood" SEO—turning technical data into organic growt
 <img src="https://github-readme-stats.vercel.app/api?username=deamonstarwind&show_icons=true&theme=radical" alt="Mark's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deamonstarwind&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
+## 📈 Website Traffic
+![Visitor Count](https://profile-counter.glitch.me/deamonstarwind/count.svg)
 ---
 
 ## 🌐 Find Me Online
